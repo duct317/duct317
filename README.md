@@ -1,0 +1,14 @@
+I'm a bioinformatics scientist at Washington University School of Medicine. I study clonal hematopoiesis across nearly 1 million participants in UK Biobank and All of Us, working with clinicians to understand who develops it and how it progresses to blood cancer. I build the pipelines and prediction models behind this work. During my PhD at the University of Nevada, Reno, I developed deep-learning methods for single-cell and cancer multi-omics data.
+
+### Papers and projects
+- **Plasma proteomic signature predicts myeloid neoplasm risk** (Clinical Cancer Research, 2024) · [paper](https://doi.org/10.1158/1078-0432.CCR-23-3468) · [code](https://github.com/kbolton-lab/CCR_Proteomics)
+- **Predictive modeling of clonal hematopoiesis across diverse cohorts** (Blood Advances, 2026) · [paper](https://doi.org/10.1182/bloodadvances.2025017940) · [prediction app](https://github.com/kbolton-lab/ch-prediction)
+- **Germline genetic variation impacts clonal hematopoiesis landscape and progression to malignancy** (Nature Genetics, 2025) · [paper](https://doi.org/10.1038/s41588-025-02250-x) · [code](https://github.com/kbolton-lab/germlineCH_NG)
+- **ArCH: clonal hematopoiesis variant calling pipeline** (Bioinformatics, 2024) · [paper](https://doi.org/10.1093/bioinformatics/btae121) · [code](https://github.com/kbolton-lab/ArCH)
+
+### Packages
+- [scDHA](https://github.com/duct317/scDHA): single-cell RNA-seq analysis with a hierarchical autoencoder (Nature Communications, 2021)
+- [scISR](https://github.com/duct317/scISR): single-cell RNA-seq dropout imputation
+- [SCFA](https://github.com/duct317/SCFA): cancer subtyping from multi-omics data
+
+[LinkedIn](https://www.linkedin.com/in/ntduc-tran/) · [Google Scholar](https://scholar.google.com/citations?user=fwSAzL0AAAAJ)
